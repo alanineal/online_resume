@@ -4,7 +4,7 @@
     width: 700x;
     height: 500px;
     grid-template-columns: 30% 70%;
-    grid-template-rows: 35% 75%;
+    grid-template-rows: 40% 60%;
     background-color: black;
   }
   
@@ -16,6 +16,9 @@
   }
 
   
+ #pic{ 
+   width: 30%;
+ }
 
   h1 {
     color: #8dd7bf;
@@ -31,5 +34,9 @@
         color:gray
 
     }
+
+    
+
+    
 
    
